@@ -4,7 +4,7 @@ $(call inherit-product, device/samsung/fortuna3g/device.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := fortuna3g
-PRODUCT_NAME := lineage_fortuna3g
+PRODUCT_NAME := derp_fortuna3g
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G530H
 PRODUCT_MANUFACTURER := samsung
